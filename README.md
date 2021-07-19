@@ -1,1 +1,1 @@
-# explorer_Auto_and_Manual
+# Explorer Robot | Auto and Manual
